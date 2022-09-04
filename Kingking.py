@@ -1,6 +1,6 @@
 #############################################################################
 # DEVELOPER : ALVINO-ADIJAYA
-# TEANCONTA : JOKERR_TZy
+# TEANCONTA :Rizwan khan
 ######################################################################################
 
 import requests,bs4,json,os,sys,random,datetime,time,re
